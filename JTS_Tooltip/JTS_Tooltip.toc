@@ -1,0 +1,11 @@
+## Interface: 16001, 120007
+## Title: |cff33ff99JTS Tooltip|r
+## Notes: Shows name, guild, rank, race, class and faction for players (plus NPCs, pets and companions) in class colours. Replaces the default unit tooltip; anchor it anywhere.
+## Author: James
+## Category: JTS Suite
+## X-Suite: JTS Suite
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\JTS_Tooltip\Icon
+## SavedVariables: JTS_TooltipDB
+
+JTS_Tooltip.lua
